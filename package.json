@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server to log-events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Bish",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
